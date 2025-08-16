@@ -1,9 +1,1 @@
-import React from 'react'
-
-export default function Footer() {
-  return (
-    <footer style={{ background: '#222', color: 'white', padding: '20px', textAlign: 'center' }}>
-      <p>© 2025 Ecowatt. Todos los derechos reservados.</p>
-    </footer>
-  )
-}
+export default function Footer(){return(<footer className='band white' style={{borderTop:'1px solid #edf1f6'}}><div className='container' style={{display:'flex',alignItems:'center',justifyContent:'space-between',gap:'16px',flexWrap:'wrap'}}><div style={{display:'flex',alignItems:'center',gap:'10px'}}><img src='/logo/logo-ecowatt.png' alt='Ecowatt' style={{height:'30px'}}/><span>Ingeniería Ambiental</span></div><div style={{opacity:.7}}>© 2025 Ecowatt</div></div></footer>) }

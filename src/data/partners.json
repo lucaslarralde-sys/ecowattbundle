@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FUCHS",
+    "href": "https://www.fuchswater.com/es/",
+    "img": "/partners/FUCHS.png",
+    "alt": "FUCHS \u2013 A Metawater Company"
+  },
+  {
+    "name": "Aqana",
+    "href": "https://aqana.com/",
+    "img": "/partners/aqana.png",
+    "alt": "Aqana"
+  },
+  {
+    "name": "DAGA",
+    "href": "https://dagaequipment.com/es/",
+    "img": "/partners/daga.png",
+    "alt": "DAGA \u2013 Equipment for the environment"
+  },
+  {
+    "name": "2G Engenharia & Servi\u00e7os",
+    "href": "https://2gservicos.com/",
+    "img": "/partners/2g.png",
+    "alt": "2G Engenharia & Servi\u00e7os"
+  },
+  {
+    "name": "Air Clean SRL",
+    "href": "https://aircleansrl.com/",
+    "img": "/partners/airclean.png",
+    "alt": "Air Clean SRL"
+  }
+]

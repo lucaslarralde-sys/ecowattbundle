@@ -1,0 +1,1 @@
+export default function Header(){return(<header className='site-header'><div className='container header-inner'><a className='brand' href='#top'><img src='/logo/logo-ecowatt.png' alt='Ecowatt'/></a><nav className='nav'><a href='#areas'>Áreas</a><a href='#contacto'>Contacto</a></nav></div></header>)}
