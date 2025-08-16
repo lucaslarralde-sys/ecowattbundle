@@ -1,5 +1,5 @@
-# Ecowatt (banda imagen)
-
-- Colocá tu video en **public/Hero.mp4**.
-- Logos en **public/images/**.
-- `npm i && npm run dev` para desarrollo; `npm run build` para producción.
+# Ecowatt — sitio listo para Netlify
+- Colocá tu video en **public/Hero.mp4** (mismo nombre).
+- Logos y fondos están en **public/images/**.
+- Dev: `npm i && npm run dev`
+- Build: `npm run build` (Netlify: publish `dist`)
