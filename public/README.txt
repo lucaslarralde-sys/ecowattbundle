@@ -1,0 +1,1 @@
+Coloca aquí tus assets. Video: public/video/hero.mp4, Logo: public/logo/logo-ecowatt.png
